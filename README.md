@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=282828&right_color=98971a)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
