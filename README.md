@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an experienced software and machine learning engineer. I have experience with fullstack development, data engineering & machine learning on highly compliant applications.
+
+I spend my free time thinking about food security and regional crop adaptability.
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)
 
 <!--START_SECTION:waka-->
