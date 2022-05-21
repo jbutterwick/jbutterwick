@@ -4,6 +4,8 @@ I'm an experienced software and machine learning engineer. I have experience wit
 
 I spend my free time thinking about food security and regional crop adaptability.
 
+I post cool stuff to https://butterwick.tech sometimes
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)
 
 <!--START_SECTION:waka-->
