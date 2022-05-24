@@ -14,8 +14,15 @@ I post cool stuff to https://butterwick.tech sometimes
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=gruvbox&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/jwbutterwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwbutterwick" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jordanwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" /></a>
+
 <!--
 **jbutterwick/jbutterwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
