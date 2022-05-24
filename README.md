@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an experienced software and machine learning engineer. I have experience with fullstack development, data engineering & machine learning on highly compliant applications.
+I'm an experienced software and machine learning engineer. I have experience writing scalable and secure web applications.
 
-I spend my free time thinking about food security and regional crop adaptability.
+My free time is spent mostly writing code and gardening. I also think and write about food security and regional crop adaptability.
 
 I post cool stuff to https://butterwick.tech sometimes
 
