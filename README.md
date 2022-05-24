@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced software and machine learning engineer. I have experience writing scalable and secure web applications.
+I build scalable and secure web applications.
 
 My free time is spent mostly writing code and gardening. I also think and write about food security and regional crop adaptability.
 
