@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi 👋 I'm Jordan
 
 🕸️ I build scalable and secure web applications. 
 
