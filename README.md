@@ -27,18 +27,12 @@ No activity tracked
 <a href="https://twitter.com/jwbutterwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwbutterwick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jordanwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" /></a>
 
-<!--
-**jbutterwick/jbutterwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Badges and things Credits</summary>
+  
+  - [LeetCode Badge](https://github.com/cascandaliato/leetcode-badge)
+  - [Visitors Badge](https://github.com/antonkomarev/github-profile-views-counter)
+  - [Github README Stats](https://github.com/anuraghazra/github-readme-stats)
+  - [WakaTime Stats](https://github.com/athul/waka-readme)
+  
+</details
