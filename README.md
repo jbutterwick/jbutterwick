@@ -2,7 +2,7 @@
 
 🕸️ I build scalable and secure web applications. 
 
-🌽 My free time is spent mostly writing code and gardening. I also think and write about food security and regional crop adaptability.
+🌽 My free time is spent writing code and gardening. I also think and write about food security and regional crop adaptability.
 
 I post cool stuff to [butterwick.tech](https://butterwick.tech) sometimes
 
