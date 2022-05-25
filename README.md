@@ -18,9 +18,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=nord&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=nord&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
