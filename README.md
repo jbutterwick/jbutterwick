@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I build scalable and secure web applications.
+🕸️ I build scalable and secure web applications. 
 
-My free time is spent mostly writing code and gardening. I also think and write about food security and regional crop adaptability.
+🌽 My free time is spent mostly writing code and gardening. I also think and write about food security and regional crop adaptability.
 
 I post cool stuff to [butterwick.tech](https://butterwick.tech) sometimes
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)  [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
+
+### ⏰ WakaTime stats
 <!--START_SECTION:waka-->
 
 ```text
