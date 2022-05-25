@@ -27,6 +27,8 @@ No activity tracked
 <a href="https://twitter.com/jwbutterwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwbutterwick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jordanwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" /></a>
 
+  
+  
 <details>
 <summary>Badges and things Credits</summary>
   
