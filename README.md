@@ -13,7 +13,12 @@ I post cool stuff to [butterwick.tech](https://butterwick.tech) sometimes
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Scala                            █████████████████░░░░░░░░   68.13 %
+Text                             ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Shell Script                     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Bash                             █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Cassandra CQL                    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Markdown                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
