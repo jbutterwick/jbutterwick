@@ -70,5 +70,6 @@ Shell Script                    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   - [Visitors Badge](https://github.com/antonkomarev/github-profile-views-counter)
   - [Github README Stats](https://github.com/anuraghazra/github-readme-stats)
   - [WakaTime Stats](https://github.com/athul/waka-readme)
+  - [Language tools and frameworks badges](https://rahuldkjain.github.io/gh-profile-readme-generator/)
   
 </details
