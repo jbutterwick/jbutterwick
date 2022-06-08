@@ -35,7 +35,7 @@ I post cool stuff to [butterwick.tech](https://butterwick.tech) sometimes
 
 
 
-### ⏰ WakaTime stats
+#### ⏰ WakaTime stats
 <!--START_SECTION:waka-->
 
 ```text
