@@ -4,7 +4,7 @@
 
 🌽 My free time is spent writing code and gardening. I also think and write about food security and regional crop adaptability.
 
-I post cool stuff to [butterwick.tech](https://butterwick.tech) sometimes
+I post things I find interesting to [butterwick.tech](https://butterwick.tech) sometimes.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)  [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
@@ -63,7 +63,6 @@ Bash                             ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <a href="https://kaggle.com/jwbutterwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jwbutterwick" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ripunicorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripunicorn" height="30" width="40" /></a>
 
-  
 <details>
 <summary>Badges and things Credits</summary>
   
