@@ -1,4 +1,4 @@
-## Hi 👋 I'm Jordan
+## Hi 👋 I'm Jordan (He/Him)
 
 🕸️ I build scalable and secure web applications. 
 
