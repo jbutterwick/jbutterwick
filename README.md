@@ -53,7 +53,8 @@ GitIgnore file                   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=dark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
-☝ These are actually a terrible indicator of what languages I use on a daily basis, they're just what show up in my private repos the most
+☝ This is actually a terrible indicator of what languages I use on a daily basis, they're just what show up in my private repos the most.
+The Wakatime percentage module above shows a more accurate picture of what languages I've been using the most recently
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbutterwick&theme=dark" alt="jbutterwick" /></p>
 
