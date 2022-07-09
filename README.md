@@ -1,10 +1,12 @@
 ## Hi 👋 I'm Jordan (He/Him)
 
-🕸️ I build scalable and secure web applications. 
+🕸️ I build scalable and secure web applications.
 
-🌽 My free time is spent writing code and gardening. I also think and write about food security and regional crop adaptability.
+🌽 My free time is spent writing code and gardening. 
 
-I post things I find interesting to [butterwick.tech](https://butterwick.tech) sometimes.
+I also think and write about food security and regional crop adaptability.
+
+I put interesting things on [butterwick.tech](https://butterwick.tech).
 
 Currently learning Haskell, trying to use more Rust, and working professionally in Scala
 
