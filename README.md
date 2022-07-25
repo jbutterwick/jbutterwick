@@ -1,16 +1,12 @@
 ## Hi 👋 I'm Jordan (He/Him)
 
-🕸️ I build scalable and secure web applications.
+scalable and secure web applications builder
 
-🌽 My free time is spent writing code and gardening. 
-
-I also think and write about food security and regional crop adaptability.
+functional programmer
 
 I put interesting things on [butterwick.tech](https://butterwick.tech).
 
-Functional programming addict and borrow checker lover
-
-Currently learning Haskell, trying to use more Rust, and building professionally with Scala
+learning Haskell and building professionally with Scala, Typescript, and Rust
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)  [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
