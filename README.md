@@ -37,7 +37,7 @@ learning Haskell and building professionally with Scala, Typescript, and Rust
 
 
 
-#### ⏰ WakaTime stats
+#### ⏰ WakaTime All-Time language usage stats
 <!--START_SECTION:waka-->
 
 ```text
