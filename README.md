@@ -4,6 +4,7 @@ I like to build scalable and secure web applications in Rust
 
 my website is [butterwick.tech](https://butterwick.tech).
 
+![](https://hit.yhype.me/github/profile?user_id=33608116)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)  [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
 <h4 align="left"> Languages, libraries, frameworks that I use: </h4>
