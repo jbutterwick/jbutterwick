@@ -2,8 +2,6 @@
 
 scalable and secure web applications builder
 
-functional programmer
-
 my website is [butterwick.tech](https://butterwick.tech).
 
 I prefer to build with Rust
