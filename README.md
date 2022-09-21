@@ -34,7 +34,7 @@ my website is [butterwick.tech](https://butterwick.tech).
 
 
 
-#### ⏰ WakaTime All-Time language usage stats
+#### ⏰ WakaTime 30-Day language usage stats
 <!--START_SECTION:waka-->
 
 ```text
