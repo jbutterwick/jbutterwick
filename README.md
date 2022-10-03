@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Jordan (He/Him)
 
-I like to build scalable and secure web applications in Rust
+I build scalable and secure web applications.
 
 my website is [butterwick.tech](https://butterwick.tech).
 
