@@ -133,11 +133,22 @@ YAML                             ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/jwbutterwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwbutterwick" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jordanwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9069390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9069390" height="30" width="40" /></a>
-<a href="https://kaggle.com/jwbutterwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jwbutterwick" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ripunicorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripunicorn" height="30" width="40" /></a>
+  <a href="https://twitter.com/jwbutterwick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwbutterwick" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jordanwb" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/9069390" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9069390" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/jwbutterwick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jwbutterwick" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ripunicorn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripunicorn" height="30" width="40" />
+  </a>
+</p>
 
 <details>
 <summary>Badges and things Credits</summary>
