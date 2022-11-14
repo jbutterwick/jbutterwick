@@ -6,11 +6,11 @@
                 font-weight: 800;
             }
             svg {
-                font-family: Helvetica, sans-serif;
+                font-family: Garamond, sans-serif;
             }
             svg {
                 display: block;
-                font: 10.5em 'Helvetica';
+                font: 10.5em 'Garamond';
                 width: 960px;
                 height: 300px;
                 margin: 0 auto;
