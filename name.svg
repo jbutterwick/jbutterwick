@@ -21,7 +21,7 @@
                 stroke-dasharray: 6% 29%;
                 stroke-width: 5px;
                 stroke-dashoffset: 0%;
-                animation: stroke-offset 5.5s infinite linear;
+                animation: stroke-offset 6.5s infinite linear;
             }
             .text-copy:nth-child(1){
                 stroke: #689d6a;
@@ -43,10 +43,10 @@
                 stroke: #458588;
                 animation-delay: -5s;
             }
-			.text-copy:nth-child(6){
-				stroke: #98971a;
-				animation-delay:-6s;
-			}
+	    .text-copy:nth-child(6){
+	         stroke: #98971a;
+		 animation-delay:-6s;
+	    }
             @keyframes stroke-offset{
                 100% {stroke-dashoffset: -35%;}
             }
