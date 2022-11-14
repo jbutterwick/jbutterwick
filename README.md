@@ -1,4 +1,4 @@
-![JORDAN](name.svg)
+![](name.svg)
 
 ## Hi 👋 I'm Jordan (He/Him)
 
