@@ -2,7 +2,7 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-I'm a tech-agnostic fullstack software engineer. I build scalable and secure web applications in the best stack for the job.
+I'm a tech-agnostic fullstack software engineer. I build scalable and secure web applications in any stack.
 
 my website is [butterwick.tech](https://butterwick.tech).
 
