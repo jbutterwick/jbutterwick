@@ -4,6 +4,8 @@
 
 I'm a tech-agnostic fullstack software engineer. I build scalable and secure web applications in any stack, but I prefer to use Rust for just about everything.
 
+currently working at [Statflo](https://www.statflo.com/)
+
 my website is [butterwick.tech](https://butterwick.tech).
 
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
