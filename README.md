@@ -6,9 +6,9 @@ I'm a tech-agnostic fullstack software engineer. I build scalable and secure web
 
 currently working at [Statflo](https://www.statflo.com/)
 
-my website is [butterwick.tech](https://butterwick.tech).
+my website is [butterwick.tech](https://butterwick.tech). I sell seeds here and also in the [Seeds of Diversity](https://seeds.ca) members catalogue
 
-in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more. I sell seeds in the [Seeds of Diversity](https://seeds.ca) members catalogue and will begin selling seeds for the first time on my own website this season
+in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more.
 
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jbutterwick.jbutterwick&left_color=#282828&right_color=#98971a)  [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
