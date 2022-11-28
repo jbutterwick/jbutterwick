@@ -6,7 +6,9 @@ I'm a tech-agnostic fullstack software engineer. I build scalable and secure web
 
 currently working at [Statflo](https://www.statflo.com/)
 
-my website is [butterwick.tech](https://butterwick.tech). I sell seeds here and also in the [Seeds of Diversity](https://seeds.ca) members catalogue
+in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more.
+
+I sell seeds on my website [butterwick.tech](https://butterwick.tech) and also in the [Seeds of Diversity](https://seeds.ca) members catalogue
 
 in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more.
 
