@@ -47,11 +47,13 @@ I sell seeds on my website [butterwick.tech](https://butterwick.tech) and also i
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
   </a>
 </p>
-<h4>this is what I deploy to: </h4>
+<h4>this is what I deploy with: </h4>
 <p align="left">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
+  <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> 
+    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M24 22.525H0l12-21.05 12 21.05z"/>
+    </svg>
+  </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -67,11 +69,9 @@ I sell seeds on my website [butterwick.tech](https://butterwick.tech) and also i
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> 
-    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <path d="M24 22.525H0l12-21.05 12 21.05z"/>
-    </svg>
-  </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
 </p>
 
 #### ⏰ WakaTime 30-Day language usage stats
