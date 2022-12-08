@@ -91,11 +91,11 @@ HTML                             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=dark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=dark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbutterwick&theme=dark" alt="jbutterwick" /></p>
+[![My GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbutterwick&theme=onedark)](https://git.io/streak-stats)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
