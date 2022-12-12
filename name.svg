@@ -28,7 +28,7 @@
                 animation-delay: -1;
             }
             .text-copy:nth-child(2){
-                stroke: #b16286;
+                stroke: #fe8019;
                 animation-delay: -2s;
             }
             .text-copy:nth-child(3){
