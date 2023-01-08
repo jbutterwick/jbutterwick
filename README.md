@@ -3,6 +3,7 @@
 ## Hi 👋 I'm Jordan (He/Him)
 
 I'm a tech-agnostic fullstack software engineer. 
+
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
 
 currently working at [Statflo](https://www.statflo.com/)
