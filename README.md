@@ -2,11 +2,9 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-I'm a tech-agnostic fullstack software engineer. 
+I'm a tech-agnostic fullstack software engineer, currently working at [Statflo](https://www.statflo.com/)
 
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
-
-currently working at [Statflo](https://www.statflo.com/)
 
 in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more.
 
