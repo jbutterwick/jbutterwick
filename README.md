@@ -2,13 +2,13 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-I'm a tech-agnostic fullstack software engineer. I build scalable and secure web applications in any stack, but I prefer to use Rust.
+I'm a tech-agnostic fullstack software engineer. I build scalable and secure event driven web applications in any stack, but I prefer to use Rust whenever I can.
 
 currently working at [Statflo](https://www.statflo.com/)
 
 in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more.
 
-I sell seeds on my website [butterwick.tech](https://butterwick.tech) and also in the [Seeds of Diversity](https://seeds.ca) members catalogue
+I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the [Seeds of Diversity](https://seeds.ca) members catalogue.
 
 ---
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
