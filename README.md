@@ -2,13 +2,15 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-I'm a tech-agnostic fullstack software engineer, currently working at [Statflo](https://www.statflo.com/)
+I'm a fullstack software engineer, currently working at [Statflo](https://www.statflo.com/)
 
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
 
 in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more.
 
 I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the [Seeds of Diversity](https://seeds.ca) members catalogue.
+
+my resume is [here](resume-2023.pdf)
 
 ---
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
@@ -76,11 +78,12 @@ I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the
 <!--START_SECTION:waka-->
 
 ```text
-Python                           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.34 %
-TypeScript                       ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.11 %
-Rust                             ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.57 %
-Markdown                         ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.43 %
-Other                            ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
+Python                           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.39 %
+Markdown                         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.66 %
+Rust                             ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.32 %
+Bash                             ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.80 %
+TypeScript                       ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
+HTML                             ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.42 %
 ```
 
 <!--END_SECTION:waka-->
@@ -93,9 +96,6 @@ Other                            ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-  <a href="https://twitter.com/jwbutterwick" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwbutterwick" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/jordanwb" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" />
   </a>
