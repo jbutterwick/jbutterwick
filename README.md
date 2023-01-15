@@ -10,7 +10,7 @@ in my spare time I breed locally adapted landraces of staple foodcrops like corn
 
 I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the [Seeds of Diversity](https://seeds.ca) members catalogue.
 
-my resume is [here](resume-2023.pdf)
+my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(at)butterwick.tech
 
 ---
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
