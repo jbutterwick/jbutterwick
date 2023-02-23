@@ -6,7 +6,7 @@ I'm a fullstack software engineer, currently working at [Statflo](https://www.st
 
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
 
-in my spare time I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, and more. My current project is a synthetic hexaploid bread wheat with supernumerary spikelets.
+when I'm off work I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, melons, and more. I'm also working on a synthetic hexaploid bread wheat with supernumerary spikelets. 
 
 I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the [Seeds of Diversity](https://seeds.ca) members catalogue.
 
