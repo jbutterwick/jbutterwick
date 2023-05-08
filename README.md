@@ -98,8 +98,8 @@ CSS                              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-  <a href="https://linkedin.com/in/jordanwb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanwb" height="30" width="40" />
+  <a href="https://linkedin.com/in/jbutterwick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbutterwick" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/9069390" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9069390" height="30" width="40" />
