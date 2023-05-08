@@ -2,7 +2,7 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-I'm a polyglot fullstack software engineer, currently working at [Statflo](https://www.statflo.com/)
+I'm a polyglot fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/)
 
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
 
