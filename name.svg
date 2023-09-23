@@ -6,7 +6,7 @@
                 font-weight: 800;
             }
             svg {
-                font-family: "Courier New", sans-serif;
+                font-family: Garamond, sans-serif;
             }
             svg {
                 display: block;
