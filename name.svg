@@ -24,27 +24,27 @@
                 animation: stroke-offset 6.5s infinite linear;
             }
             .text-copy:nth-child(1){
-                stroke: #689d6a;
+                stroke: #f2cdcd;
                 animation-delay: -1;
             }
             .text-copy:nth-child(2){
-                stroke: #fe8019;
+                stroke: #cba6f7;
                 animation-delay: -2s;
             }
             .text-copy:nth-child(3){
-                stroke: #b16286;
+                stroke: #f38ba8;
                 animation-delay: -3s;
             }
             .text-copy:nth-child(4){
-                stroke: #cc241d;
+                stroke: #fab387;
                 animation-delay: -4s;
             }
             .text-copy:nth-child(5){
-                stroke: #458588;
+                stroke: #a6e3a1;
                 animation-delay: -5s;
             }
 	    .text-copy:nth-child(6){
-	         stroke: #98971a;
+	         stroke: #74c7ec;
 		 animation-delay:-6s;
 	    }
             @keyframes stroke-offset{
