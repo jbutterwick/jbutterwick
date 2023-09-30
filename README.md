@@ -14,6 +14,7 @@ I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the
 my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(at)butterwick.tech
 
 ---
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
   <a href="https://linkedin.com/in/jbutterwick" target="blank">
@@ -29,7 +30,9 @@ my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(a
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripunicorn" height="30" width="40" />
   </a>
 </p>
+
 ---
+
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
 ![](https://komarev.com/ghpvc/?username=jbutterwick&label=visitors) [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
