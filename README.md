@@ -2,7 +2,7 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-Polyglot fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/)
+Polyglot fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/) 
 
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
 
@@ -13,6 +13,22 @@ I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the
 
 my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(at)butterwick.tech
 
+---
+🔗 &nbsp;**Connect with me**
+<p align="left">
+  <a href="https://linkedin.com/in/jbutterwick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbutterwick" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/9069390" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9069390" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/jwbutterwick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jwbutterwick" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ripunicorn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripunicorn" height="30" width="40" />
+  </a>
+</p>
 ---
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
 ![](https://komarev.com/ghpvc/?username=jbutterwick&label=visitors) [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
@@ -96,22 +112,6 @@ textmate                         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
 [![My GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbutterwick&theme=onedark)](https://git.io/streak-stats)
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-  <a href="https://linkedin.com/in/jbutterwick" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbutterwick" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/9069390" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9069390" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/jwbutterwick" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jwbutterwick" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ripunicorn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripunicorn" height="30" width="40" />
-  </a>
-</p>
 
 <details>
 <summary>Badges and things Credits</summary>
