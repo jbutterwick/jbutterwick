@@ -2,7 +2,7 @@
 ---
 ## Hi 👋 I'm Jordan (He/Him)
 
-Polyglot fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/) 
+Polyglot and multi-paradigm fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/) 
 
 I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
 
