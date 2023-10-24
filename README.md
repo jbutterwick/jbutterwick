@@ -36,14 +36,11 @@ my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(a
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
 ![](https://komarev.com/ghpvc/?username=jbutterwick&label=visitors) [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
-<h4 align="left">this is some of the tech I'm using and learning right now: </h4>
+<h4 align="left">these are some of the technologies I've built and shipped projects with: </h4>
 <p align="left"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
   </a> 
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/>
-  </a>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
   </a>
@@ -52,9 +49,6 @@ my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(a
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
@@ -75,7 +69,17 @@ my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(a
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   </a>
 </p>
-<h4>this is what I deploy with: </h4>
+<h4>I use these ones for fun and experimenting: </h4>
+<p>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/>
+  </a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
+  </a>
+</p>
+
+<h4>this is what I've deployed projects with: </h4>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
