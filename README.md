@@ -4,14 +4,7 @@
 
 Polyglot and multi-paradigm fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/) 
 
-I build scalable and secure event driven web applications in any stack, but prefer to use Rust whenever I can.
-
-when I'm off work I breed locally adapted landraces of staple foodcrops like corn, rice, wheat, beans, squash, melons, peas, tomatoes, potatoes, and more.
-I also manage a community garden.
-
-I sell seeds on my website [butterwick.tech](https://butterwick.tech) and in the [Seeds of Diversity](https://seeds.ca) members catalogue.
-
-my resume is [here](resume-2023.pdf) and you can contact me at my email jordan(at)butterwick.tech
+my resume is [here](resume-2023.pdf) and you can contact me at jordan(at)butterwick.tech
 
 ---
 
