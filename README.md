@@ -32,7 +32,7 @@ my resume is [here](resume-2023.pdf) and you can contact me at jordan(at)butterw
 <h4 align="left">these are some of the technologies I've built and shipped projects with: </h4>
 <p align="left"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
   </a> 
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
