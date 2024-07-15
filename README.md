@@ -1,14 +1,15 @@
-![](name.svg)
----
+## ![](name.svg)
+
 ## Hi 👋 I'm Jordan (He/Him)
 
-Polyglot and multi-paradigm fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/) 
+Polyglot and multi-paradigm fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/)
 
-my resume is [here](resume-2023.pdf) and you can contact me at jordan(at)butterwick.tech
+my resume is [here](resume.pdf) and you can contact me at jordan(at)butterwick.tech
 
 ---
 
 🔗 &nbsp;**Connect with me**
+
 <p align="left">
   <a href="https://linkedin.com/in/jbutterwick" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbutterwick" height="30" width="40" />
@@ -95,6 +96,7 @@ my resume is [here](resume-2023.pdf) and you can contact me at jordan(at)butterw
 </p>
 
 #### ⏰ WakaTime 30-Day language usage stats
+
 <!--START_SECTION:waka-->
 
 ```txt
