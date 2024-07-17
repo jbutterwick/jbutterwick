@@ -100,7 +100,8 @@ my resume is [here](resume.pdf) and you can contact me at jordan(at)butterwick.t
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML                       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.15 %
+Markdown                   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.85 %
 ```
 
 <!--END_SECTION:waka-->
