@@ -113,7 +113,7 @@ Twig                         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
 
-[![My GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbutterwick&theme=onedark)](https://git.io/streak-stats)
+[![My GitHub Streak stats](https://streak-stats.demolab.com/?user=jbutterwick&theme=onedark)](https://git.io/streak-stats)
 
 <details>
 <summary>Badges and things Credits</summary>
