@@ -111,9 +111,9 @@ Twig                         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=onedark&count_private=true&hide_border=true)](https://github.com/jbutterwick/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jbutterwick&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jbutterwick&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 <details>
 <summary>Badges and things Credits</summary>
