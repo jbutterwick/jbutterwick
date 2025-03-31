@@ -95,19 +95,6 @@ my resume is [here](resume.pdf) and you can contact me at jordan(at)butterwick.t
   </a>
 </p>
 
-#### ⏰ WakaTime 30-Day language usage stats
-
-<!--START_SECTION:waka-->
-
-```txt
-PHP                                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   69.72 %
-YAML                                ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.39 %
-Twig                                ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.03 %
-Vue.js                              ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.35 %
-Text                                ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.11 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)-->
 
