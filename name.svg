@@ -18,14 +18,14 @@
             .text-copy {
                 fill: none;
                 stroke: white;
-                stroke-dasharray: 6% 29%;
+                stroke-dasharray: 7% 29%;
                 stroke-width: 5px;
                 stroke-dashoffset: 0%;
                 animation: stroke-offset 6.5s infinite linear;
             }
             .text-copy:nth-child(1){
                 stroke: #f2cdcd;
-                animation-delay: -1;
+                animation-delay: -1s;
             }
             .text-copy:nth-child(2){
                 stroke: #b4befe;
@@ -43,10 +43,10 @@
                 stroke: #a6e3a1;
                 animation-delay: -5s;
             }
-	    .text-copy:nth-child(6){
-	         stroke: #74c7ec;
-		 animation-delay:-6s;
-	    }
+	    	.text-copy:nth-child(6){
+	         	stroke: #74c7ec;
+		 		animation-delay:-6s;
+	    	}
             @keyframes stroke-offset{
                 100% {stroke-dashoffset: -35%;}
             }
