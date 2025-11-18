@@ -2,9 +2,9 @@
 
 ## Hi 👋 I'm Jordan (He/Him)
 
-Polyglot and multi-paradigm fullstack software engineer, currently working at [DocuPet](https://www.docupet.com/)
+Polyglot and multi-paradigm fullstack software engineer, currently looking for work
 
-my resume is [here](resume.pdf) and you can contact me at jordan(at)butterwick.tech
+my resume is [here](https://butterwick.tech/resume) and you can contact me at jordan(at)butterwick.tech
 
 ---
 
@@ -44,23 +44,8 @@ my resume is [here](resume.pdf) and you can contact me at jordan(at)butterwick.t
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitMQ" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
   </a>
 </p>
 <h4>I use these ones for fun and experimenting: </h4>
@@ -72,30 +57,6 @@ my resume is [here](resume.pdf) and you can contact me at jordan(at)butterwick.t
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
   </a>
 </p>
-
-<h4>this is what I've deployed projects with: </h4>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-  </a>
-</p>
-
-
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbutterwick&layout=compact&theme=gruvbox&count_private=true&hide_border=true)](https://github.com/jbutterwick/github-readme-stats)
