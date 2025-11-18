@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm Jordan (He/Him)
 
-Polyglot and multi-paradigm fullstack software engineer, currently looking for work
+Polyglot and multi-paradigm fullstack software engineer, currently looking for work.
 
 my resume is [here](https://butterwick.tech/resume) and you can contact me at jordan(at)butterwick.tech
 
@@ -30,7 +30,7 @@ my resume is [here](https://butterwick.tech/resume) and you can contact me at jo
 ![](https://hit.yhype.me/github/profile?user_id=33608116)
 ![](https://komarev.com/ghpvc/?username=jbutterwick&label=visitors) [![LeetCode user RipUnicorn](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRipUnicorn&logo=leetcode&logoColor=yellow)](https://leetcode.com/RipUnicorn/)
 
-<h4 align="left">these are some of the technologies I've built and shipped projects with: </h4>
+<h4 align="left">I'll learn and use any programming language, but these are the ones I've built and shipped projects with before: </h4>
 <p align="left"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
