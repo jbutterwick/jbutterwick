@@ -2,9 +2,9 @@
 
 ## Hi 👋 I'm Jordan (He/Him)
 
-Polyglot and multi-paradigm fullstack software engineer, currently looking for work.
+I'm a polyglot and multi-paradigm fullstack software engineer, currently looking for work.
 
-my resume is [here](https://butterwick.tech/resume) and you can contact me at jordan(at)butterwick.tech
+my resume is [here](https://butterwick.tech/resume.html) and you can contact me at jordan(at)butterwick.tech
 
 ---
 
