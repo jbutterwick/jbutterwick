@@ -68,7 +68,7 @@ my resume is [here](https://butterwick.tech/resume.html) and you can contact me 
 </p>
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbutterwick&show_icons=true&theme=onedark&count_private=true)](https://github.com/jbutterwick/github-readme-stats)-->
 
-[![Jordan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jbutterwick)](https://github.com/stats-organization/github-stats-extended)
+[![Jordan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jbutterwick&layout=compact&theme=gruvbox&count_private=true&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jbutterwick&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
